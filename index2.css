@@ -1,9 +1,32 @@
 html {
     box-sizing: border-box;
+
   }
 
 *{
-    background-color: red;
+  background-color: aliceblue;
+  font-family: 'Courier New', sans-serif;
 }
 
+table, th, td {
+  border:1px solid black;
+}
+
+.main{
+  max-width: 1200px;
+  margin:auto;
+
+}
+.images{
+  text-align:center;
+  margin:50px auto;
+  float:left;
+}
+  
+  
+.images figure{
+  margin:0px 20px;
+  display:inline-block;
+  text-decoration:none;
+  color:black;}
 
