@@ -7,7 +7,6 @@
 header{
   background-color: #DEB887;
   height: 100vh;
-  background-position: center;
 }
 
 p{
@@ -56,12 +55,12 @@ ul li a{
 }
 
 .btn{
-  border: 1px solid #fff;
+  border: 3px solid #fff;
   padding: 10px 30px;
   text-decoration: none;
-  transition: 0.6s ease;
   width: 90px;
   text-align: center;
+  font-weight: bold;
 }
 
 img{
