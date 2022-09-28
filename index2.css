@@ -24,7 +24,8 @@ table, th, td {
   margin:0px 40px;
   display:inline-block;
   text-decoration:none;
-  /*color:black;*/}
+  margin-bottom: 20px;
+  }
 
 .main {
 margin:auto;
